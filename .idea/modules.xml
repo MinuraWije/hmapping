@@ -4,10 +4,12 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/eager-fetching.iml" filepath="$PROJECT_DIR$/eager-fetching.iml" />
       <module fileurl="file://$PROJECT_DIR$/hmapping.iml" filepath="$PROJECT_DIR$/hmapping.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hql.iml" filepath="$PROJECT_DIR$/hql.iml" />
       <module fileurl="file://$PROJECT_DIR$/lazy-fetching.iml" filepath="$PROJECT_DIR$/lazy-fetching.iml" />
       <module fileurl="file://$PROJECT_DIR$/many-to-many.iml" filepath="$PROJECT_DIR$/many-to-many.iml" />
       <module fileurl="file://$PROJECT_DIR$/one-to-many.iml" filepath="$PROJECT_DIR$/one-to-many.iml" />
       <module fileurl="file://$PROJECT_DIR$/one-to-one.iml" filepath="$PROJECT_DIR$/one-to-one.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sql.iml" filepath="$PROJECT_DIR$/sql.iml" />
     </modules>
   </component>
 </project>

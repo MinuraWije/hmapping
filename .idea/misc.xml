@@ -9,6 +9,8 @@
         <option value="$PROJECT_DIR$/many-to-many/pom.xml" />
         <option value="$PROJECT_DIR$/lazy-fetching/pom.xml" />
         <option value="$PROJECT_DIR$/eager-fetching/pom.xml" />
+        <option value="$PROJECT_DIR$/sql/pom.xml" />
+        <option value="$PROJECT_DIR$/hql/pom.xml" />
       </list>
     </option>
   </component>
